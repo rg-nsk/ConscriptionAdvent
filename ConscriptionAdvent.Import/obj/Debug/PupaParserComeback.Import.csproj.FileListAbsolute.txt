@@ -1,0 +1,74 @@
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csprojResolveAssemblyReference.cache
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csprojAssemblyReference.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CopyComplete
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CopyComplete
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback_24_11 — копия\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CopyComplete
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_02_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.AssemblyReference.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.AssemblyReference.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CopyComplete
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_13_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.AssemblyReference.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CopyComplete
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+Z:\Отделения\Cолдаты\Novoseltsev\Исходники\Оптимизированные\PupaParserComeback\PupaParserComeback_17_12\PupaParserComeback\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.dll
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Import.pdb
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.dll
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.dll
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Domain.pdb
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\bin\Debug\PupaParserComeback.Presentation.pdb
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.AssemblyReference.cache
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CoreCompileInputs.cache
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.csproj.CopyComplete
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.dll
+C:\Users\Gurev\Desktop\PupaReturn\PupaParserComeback.Import\obj\Debug\PupaParserComeback.Import.pdb

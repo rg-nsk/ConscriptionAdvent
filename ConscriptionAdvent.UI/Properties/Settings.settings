@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConscriptionAdvent.UI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ImportDirectoryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Z:\Документы\Призыв\2023 год\Осень\Эл. База</Value>
+    </Setting>
+    <Setting Name="PersonalPhotoDirectoryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">W:\Фотоальбом\PersonalPhoto2023-2</Value>
+    </Setting>
+    <Setting Name="FirebirdLocalFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">g:\work\mash\new_form\base\FORM2023-2.GDB</Value>
+    </Setting>
+    <Setting Name="SqliteLocalFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">q:\Data\PupaParser\Advent\Advent\Advent\SQLite\Main2023-2.db</Value>
+    </Setting>
+    <Setting Name="ExportTemplateFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ConscriptionAdvent\Templates\ABPattern.xls</Value>
+    </Setting>
+    <Setting Name="ExportTableTemplateFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ConscriptionAdvent\Templates\ExportTableTemplate.xlsx</Value>
+    </Setting>
+    <Setting Name="ExportDirectoryPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\ConscriptionAdvent\ExportedFiles</Value>
+    </Setting>
+    <Setting Name="ThemeValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LightGreen</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

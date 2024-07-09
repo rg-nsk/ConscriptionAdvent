@@ -1,0 +1,598 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|z:\\\u043E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\c\u043E\u043B\u0434\u0430\u0442\u044B\\gurev\\[1] source\\conscription advent\\conscriptionadvent.ui\\views\\recruitfirstview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitfirstview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.data.sqlite\\concrete\\recruitinfomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|solutionrelative:conscriptionadvent.data.sqlite\\concrete\\recruitinfomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.data.sqlite\\dto\\priz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|solutionrelative:conscriptionadvent.data.sqlite\\dto\\priz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.data.sqlite\\dtocomparers\\prizcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|solutionrelative:conscriptionadvent.data.sqlite\\dtocomparers\\prizcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.data.sqlite\\extensionmethods\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|solutionrelative:conscriptionadvent.data.sqlite\\extensionmethods\\dbcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.data.sqlite\\extensionmethods\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|solutionrelative:conscriptionadvent.data.sqlite\\extensionmethods\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.data.sqlite\\pupadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CF025B-591B-4DB9-A21C-78C2B13E2AAF}|ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj|solutionrelative:conscriptionadvent.data.sqlite\\pupadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\models\\cards\\passportinfocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\models\\cards\\passportinfocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\viewmodels\\recruitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\viewmodels\\recruitviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\recruitcommands\\updaterecruitscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\recruitcommands\\updaterecruitscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E1EA74-3CE6-4F76-ADE4-5E1A90908C6A}|ConscriptionAdvent.Domain\\ConscriptionAdvent.Domain.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E1EA74-3CE6-4F76-ADE4-5E1A90908C6A}|ConscriptionAdvent.Domain\\ConscriptionAdvent.Domain.csproj|solutionrelative:conscriptionadvent.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\recruitcommands\\addrecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\recruitcommands\\addrecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\recruitthirdview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitthirdview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\recruitview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\settingsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\recruitcommands\\exportrecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\recruitcommands\\exportrecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\recruitcommands\\editrecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\recruitcommands\\editrecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConscriptionAdvent.Data.SQLite||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConscriptionAdvent.Domain||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConscriptionAdvent.Export||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConscriptionAdvent.Import||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConscriptionAdvent.UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\recruitfirstview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitfirstview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\recruitcommands\\saverecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\recruitcommands\\saverecruitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\recruitview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\recruitfactories\\recruitcardgroupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\recruitfactories\\recruitcardgroupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AC8619-AE11-491F-95E4-9858701C297D}|ConscriptionAdvent.Presentation\\ConscriptionAdvent.Presentation.csproj|solutionrelative:conscriptionadvent.presentation\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\dialogviews\\errordialogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\dialogviews\\errordialogview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\recruitsecondview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitsecondview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\recruitsecondview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\recruitsecondview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\conscriptionadvent.ui\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F9B3637-0861-42A4-B010-9C3BB9965231}|ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj|solutionrelative:conscriptionadvent.ui\\views\\settingsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\App.xaml.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\App.xaml.cs",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\App.xaml.cs",
+              "ViewState": "AQIAAC4BAAAAAAAAAAAkwF0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T12:22:44.755Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RecruitView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T02:46:57.856Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecruitViewModel.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\ViewModels\\RecruitViewModel.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\ViewModels\\RecruitViewModel.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\ViewModels\\RecruitViewModel.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\ViewModels\\RecruitViewModel.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwDUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:38:14.66Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecruitInfoMapper.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\Concrete\\RecruitInfoMapper.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\Concrete\\RecruitInfoMapper.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\Concrete\\RecruitInfoMapper.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\Concrete\\RecruitInfoMapper.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAQwF4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:06:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DateTimeExtensions.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DateTimeExtensions.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DateTimeExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:04:44.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecruitFirstView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T07:48:20.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContextExtensions.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DbContextExtensions.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DbContextExtensions.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DbContextExtensions.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\ExtensionMethods\\DbContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:05:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "priz.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\Dto\\priz.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\Dto\\priz.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\Dto\\priz.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\Dto\\priz.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwFMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:06:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PupaDbContext.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\PupaDbContext.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\PupaDbContext.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\PupaDbContext.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\PupaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:04:36.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrizComparer.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\DtoComparers\\PrizComparer.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\DtoComparers\\PrizComparer.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\DtoComparers\\PrizComparer.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\DtoComparers\\PrizComparer.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:05:16.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SettingsView.xaml.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\SettingsView.xaml.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\SettingsView.xaml.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\SettingsView.xaml.cs",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\SettingsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T12:28:51.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PassportInfoCard.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\Models\\Cards\\PassportInfoCard.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\Models\\Cards\\PassportInfoCard.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\Models\\Cards\\PassportInfoCard.cs*",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\Models\\Cards\\PassportInfoCard.cs*",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAhwDoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:43:07.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:17:13.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateRecruitsCommand.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\UpdateRecruitsCommand.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\RecruitCommands\\UpdateRecruitsCommand.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\UpdateRecruitsCommand.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\RecruitCommands\\UpdateRecruitsCommand.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:17:52.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecruitView.xaml.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitView.xaml.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitView.xaml.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitView.xaml.cs",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T06:31:47.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecruitThirdView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitThirdView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitThirdView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitThirdView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitThirdView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T07:48:15.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddRecruitCommand.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\AddRecruitCommand.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\RecruitCommands\\AddRecruitCommand.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\AddRecruitCommand.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\RecruitCommands\\AddRecruitCommand.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:44:27.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExportRecruitCommand.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\ExportRecruitCommand.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\RecruitCommands\\ExportRecruitCommand.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\ExportRecruitCommand.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\RecruitCommands\\ExportRecruitCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:47:23.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditRecruitCommand.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\EditRecruitCommand.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\RecruitCommands\\EditRecruitCommand.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\EditRecruitCommand.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\RecruitCommands\\EditRecruitCommand.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T10:47:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SaveRecruitCommand.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\SaveRecruitCommand.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\RecruitCommands\\SaveRecruitCommand.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitCommands\\SaveRecruitCommand.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\RecruitCommands\\SaveRecruitCommand.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T07:49:26.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAABRwEUAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T12:00:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\MainView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\MainView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-08T10:25:48.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RecruitCardGroupFactory.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitFactories\\RecruitCardGroupFactory.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\RecruitFactories\\RecruitCardGroupFactory.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\RecruitFactories\\RecruitCardGroupFactory.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\RecruitFactories\\RecruitCardGroupFactory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:45:40.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RecruitFirstView.xaml.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml.cs",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitFirstView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T12:21:40.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConscriptionAdvent.Export",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Export\\ConscriptionAdvent.Export.csproj",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Export\\ConscriptionAdvent.Export.csproj",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Export\\ConscriptionAdvent.Export.csproj",
+              "RelativeToolTip": "ConscriptionAdvent.Export\\ConscriptionAdvent.Export.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-20T14:57:04.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ConscriptionAdvent.UI",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\ConscriptionAdvent.UI.csproj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG4SURBVDhPlVNLSgNBEK2ezkwk95CACyMYyVpBcZdDuA9eQfQCHsGdZJWN6CCKQZJNMsvgEQKS/Xy6p9uqmj8RPy9507/6vK6aEdZaCIIAEFYIkdLkO6CdjOMYpJRmMBhI2hO4TQewXC6JNk1Ta3RqU5VanWirI2VVmNg4jJnT6dRuPjd2NpvF5Ed08uwYjLMgi9GCyROAyYgKodPpQHe3683nc00\u002BDj1KGPwbdEsr8joP6LouLIIFrD5WZC0x\u002BY5DBkhRN7R0OdaUgfZun9/gYK8HR70\u002B9PcPwfM88vMcvDcUrGcmkiKibEm4PD8G6UqQnuSARhvyMUUAQaOQDhq0mBd393zBm0cfHAxwPXnCSgksFv5w1EZz0m0FWCwildWR2C1UwGsE\u002BlFZWYHWHMA0akAKhIMZkGiX9aZZ5lJB7ldegckZagquJg9ZHXLwGUeGysf3fVq7Sqnk7OSUD38DvmTw8v5KnWg3FKhYgcE61PcKapUVjecYgK6A86oL9J5Ta5IwARWqLepYl3NCFEUcrNkFrO5fkftUCijif0D2w\u002BHQiPF4TOv2er2OfvqcEfwJFyC1o9FIfAEY9LSsVtvctwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-12-20T14:57:31.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "app.config",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\app.config",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\app.config",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\app.config",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-04T04:01:58.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Presentation\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Presentation\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "ConscriptionAdvent.Presentation\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T01:47:38.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConscriptionAdvent.Domain",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Domain\\ConscriptionAdvent.Domain.csproj",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Domain\\ConscriptionAdvent.Domain.csproj",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Domain\\ConscriptionAdvent.Domain.csproj",
+              "RelativeToolTip": "ConscriptionAdvent.Domain\\ConscriptionAdvent.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-20T14:56:54.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConscriptionAdvent.Data.SQLite",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj",
+              "RelativeToolTip": "ConscriptionAdvent.Data.SQLite\\ConscriptionAdvent.Data.SQLite.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-20T14:56:42.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConscriptionAdvent.Import",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Import\\ConscriptionAdvent.Import.csproj",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.Import\\ConscriptionAdvent.Import.csproj",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.Import\\ConscriptionAdvent.Import.csproj",
+              "RelativeToolTip": "ConscriptionAdvent.Import\\ConscriptionAdvent.Import.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-12-20T14:57:15.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\MainView.xaml.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\MainView.xaml.cs*",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\MainView.xaml.cs*",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T12:21:23.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "App.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\App.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\App.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\App.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-08T08:38:52.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorDialogView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\DialogViews\\ErrorDialogView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\DialogViews\\ErrorDialogView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\DialogViews\\ErrorDialogView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\DialogViews\\ErrorDialogView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T02:26:36.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SettingsView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\SettingsView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\SettingsView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\SettingsView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\SettingsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-08T11:03:25.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RecruitSecondView.xaml.cs",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml.cs",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml.cs",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml.cs",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVDhPY0AGretv/t9x7tl/KJd0sOfii/\u002Bimfv\u002Bbzv7lGhDGBlid2Eo1pTkZNiSLsVQWVkJFWFgYGdnZygoKGAwNjZmhAphgt0XnsFd8P79\u002B/9Pnz6F47CwsP/R0dH/z549i2IhE5QGg1P3PzMsTtVgsFTiYvj27RtUFAF\u002B//7N0NfXx4BsCIoBIVoMDOaKnFg1wwDIkAkTJkB5oDBAAnFxcf/b29uhPNygsLCQYdWqVWC9KC748eMHlEU8QDGAHDBqABUMQEkHmZmZ/9\u002B\u002BfQvl4QbCwsIM06dPx50niAcMDADfJl5g9BqhpwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-08T12:21:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RecruitSecondView.xaml",
+              "DocumentMoniker": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml",
+              "RelativeDocumentMoniker": "ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml",
+              "ToolTip": "Z:\\\u041E\u0442\u0434\u0435\u043B\u0435\u043D\u0438\u044F\\C\u043E\u043B\u0434\u0430\u0442\u044B\\Gurev\\[1] Source\\Conscription Advent\\ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml",
+              "RelativeToolTip": "ConscriptionAdvent.UI\\Views\\RecruitSecondView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-08T12:21:44.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

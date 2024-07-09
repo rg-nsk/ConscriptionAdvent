@@ -1,0 +1,36 @@
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.AssemblyReference.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\obj\Release\PupaParserComeback.Presentation.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\obj\Release\PupaParserComeback.Presentation.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\PupaParserComeback.Presentation.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\PupaParserComeback.Presentation.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\DotNetZip.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\PupaParserComeback.Domain.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\PupaParserComeback.Domain.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\DotNetZip.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\bin\Release\DotNetZip.xml
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.CopyComplete
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Presentation.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Presentation.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Domain.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\DotNetZip.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Domain.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\DotNetZip.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\bin\Release\DotNetZip.xml
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.AssemblyReference.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.CopyComplete
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.pdb
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Presentation.dll
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Presentation.pdb
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Domain.dll
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\DotNetZip.dll
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\ConscriptionAdvent.Domain.pdb
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\DotNetZip.pdb
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\bin\Release\DotNetZip.xml
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.AssemblyReference.cache
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\obj\Release\Conscrip.AD1C073A.Up2Date
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.dll
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Presentation\obj\Release\ConscriptionAdvent.Presentation.pdb

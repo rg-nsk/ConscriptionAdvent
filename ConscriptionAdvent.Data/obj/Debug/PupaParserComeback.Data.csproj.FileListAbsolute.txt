@@ -1,0 +1,7 @@
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\bin\Debug\PupaParserComeback.Data.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\bin\Debug\PupaParserComeback.Data.pdb
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\bin\Debug\PupaParserComeback.Domain.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\bin\Debug\PupaParserComeback.Domain.pdb
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\obj\Debug\PupaParserComeback.Data.csprojResolveAssemblyReference.cache
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\obj\Debug\PupaParserComeback.Data.dll
+C:\Users\master\documents\visual studio 2015\Projects\PupaParserComeback\PupaParserComeback.Data\obj\Debug\PupaParserComeback.Data.pdb

@@ -1,0 +1,18 @@
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Domain\bin\Release\PupaParserComeback.Domain.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Domain\bin\Release\PupaParserComeback.Domain.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Domain\obj\Release\ConscriptionAdvent.Domain.csproj.AssemblyReference.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Domain\obj\Release\ConscriptionAdvent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Domain\obj\Release\PupaParserComeback.Domain.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\PupaParserComeback.Domain\obj\Release\PupaParserComeback.Domain.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Domain\bin\Release\ConscriptionAdvent.Domain.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Domain\bin\Release\ConscriptionAdvent.Domain.pdb
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.csproj.AssemblyReference.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.dll
+C:\Users\Gurev\Desktop\ConscriptionAdvent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.pdb
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Domain\bin\Release\ConscriptionAdvent.Domain.dll
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Domain\bin\Release\ConscriptionAdvent.Domain.pdb
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.csproj.AssemblyReference.cache
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.csproj.CoreCompileInputs.cache
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.dll
+Z:\Отделения\Cолдаты\Gurev\[1] Source\Conscription Advent\ConscriptionAdvent.Domain\obj\Release\ConscriptionAdvent.Domain.pdb

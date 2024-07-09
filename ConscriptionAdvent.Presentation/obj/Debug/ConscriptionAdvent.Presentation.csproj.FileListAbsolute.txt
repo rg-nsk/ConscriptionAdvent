@@ -1,0 +1,12 @@
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\ConscriptionAdvent.Presentation.dll
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\ConscriptionAdvent.Presentation.pdb
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\ConscriptionAdvent.Domain.dll
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\DotNetZip.dll
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\ConscriptionAdvent.Domain.pdb
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\DotNetZip.pdb
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\bin\Debug\DotNetZip.xml
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\obj\Debug\ConscriptionAdvent.Presentation.csproj.AssemblyReference.cache
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\obj\Debug\ConscriptionAdvent.Presentation.csproj.CoreCompileInputs.cache
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\obj\Debug\ConscriptionAdvent.Presentation.csproj.CopyComplete
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\obj\Debug\ConscriptionAdvent.Presentation.dll
+D:\Projects\Conscription Advent\ConscriptionAdvent.Presentation\obj\Debug\ConscriptionAdvent.Presentation.pdb

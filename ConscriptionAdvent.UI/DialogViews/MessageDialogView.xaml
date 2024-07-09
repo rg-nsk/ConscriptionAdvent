@@ -1,0 +1,40 @@
+﻿<Window x:Class="ConscriptionAdvent.UI.DialogViews.MessageDialogView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:constants="clr-namespace:ConscriptionAdvent.Presentation.Constants;assembly=ConscriptionAdvent.Presentation"
+        mc:Ignorable="d"
+        Background="{DynamicResource MaterialDesignPaper}"
+	    Foreground="{DynamicResource WindowBrushText}"
+        WindowStartupLocation="CenterScreen"
+        d:DesignHeight="150" d:DesignWidth="300"
+        MaxHeight="150" MaxWidth="300"
+        ResizeMode="NoResize">
+    
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <TextBlock Margin="0 6 0 0" x:Name="Message"
+                   FontSize="18" Grid.Row="0" Grid.RowSpan="2"
+                   HorizontalAlignment="Center"/>
+        
+        <Button Grid.Row="1" 
+                IsDefault="True" Style="{DynamicResource MaterialDesignFlatButton}"
+                HorizontalAlignment="Right"
+                Margin="15 0 15 0"
+                Click="Yes_Click">
+            Да
+        </Button>
+        <Button Grid.Row="1" 
+        IsDefault="True" Style="{DynamicResource MaterialDesignFlatButton}"
+        HorizontalAlignment="Left"
+        Margin="15 0 15 0"
+        Click="No_Click">
+            Нет
+        </Button>
+    </Grid>
+</Window>

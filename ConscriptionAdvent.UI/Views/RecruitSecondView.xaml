@@ -1,0 +1,414 @@
+﻿<UserControl x:Class="ConscriptionAdvent.UI.Views.RecruitSecondView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ConscriptionAdvent.UI.Views"
+             xmlns:cards="clr-namespace:ConscriptionAdvent.Presentation.Models.Cards;assembly=ConscriptionAdvent.Presentation"
+             xmlns:constants="clr-namespace:ConscriptionAdvent.Presentation.Constants;assembly=ConscriptionAdvent.Presentation"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:Converters="clr-namespace:MaterialDesignThemes.Wpf.Converters;assembly=MaterialDesignThemes.Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="1024" d:DesignWidth="900">
+
+    <materialDesign:ColorZone Mode="{Binding Text, Source={StaticResource WindowBrushMode}}" 
+                              VerticalAlignment="Stretch" 
+                              HorizontalAlignment="Stretch" 
+                              VerticalContentAlignment="Stretch">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="9*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0" Grid.RowSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*" />
+                    <ColumnDefinition Width="1.5*" />
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="1.5*" />
+                    <ColumnDefinition Width="0.5*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <materialDesign:Card Margin="0 5 0 0" 
+                                     Padding="5">
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0"
+                                       Margin="5 5 5 5" 
+                                       Padding="0 0 0 0" 
+                                       FontSize="16"
+                                       Text="{x:Static constants:TitleConstants.MilitaryDocumentCardTitle}" />
+
+                            <TextBox Grid.Row="1"
+                                     Margin="5 0 5 10"
+                                     HorizontalContentAlignment="Left" 
+                                     VerticalContentAlignment="Center"
+                                     materialDesign:HintAssist.Hint="{x:Static cards:MilitaryDocumentCard.PersonalNumberFieldName}" 
+                                     materialDesign:HintAssist.IsFloating="True"
+                                     Text="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.PersonalNumber,
+                                                    UpdateSourceTrigger=PropertyChanged,
+                                                    ValidatesOnDataErrors=True}" />
+
+                            <TextBox Grid.Row="2"
+                                     Margin="5 0 5 10"
+                                     HorizontalContentAlignment="Left" 
+                                     VerticalContentAlignment="Center"
+                                     materialDesign:HintAssist.Hint="{x:Static cards:MilitaryDocumentCard.MilitaryBilletCodeFieldName}" 
+                                     materialDesign:HintAssist.IsFloating="True"
+                                     Text="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.MilitaryBilletCode,
+                                                    UpdateSourceTrigger=PropertyChanged,
+                                                    ValidatesOnDataErrors=True}" />
+
+                            <ComboBox Grid.Row="3"
+                                      Margin="5 0 5 10"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:MilitaryDocumentCard.AccessFormFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.AccessFormEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.AccessForm,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}"
+                                      IsEnabled="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.IsHaveSecretAccess}" />
+
+                            <TextBox Grid.Row="4"
+                                     Margin="5 0 5 10"
+                                     HorizontalContentAlignment="Left" 
+                                     VerticalContentAlignment="Center"
+                                     materialDesign:HintAssist.Hint="{x:Static cards:MilitaryDocumentCard.SecretAccessNumberFieldName}" 
+                                     materialDesign:HintAssist.IsFloating="True"
+                                     Text="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.SecretAccessNumber,
+                                                    UpdateSourceTrigger=PropertyChanged,
+                                                    ValidatesOnDataErrors=True}"
+                                     IsEnabled="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.IsHaveSecretAccess,
+                                                         UpdateSourceTrigger=PropertyChanged,
+                                                         ValidatesOnDataErrors=True}" />
+
+                            <DatePicker Grid.Row="5" 
+                                        Margin="5 10 5 10"
+                                        HorizontalContentAlignment="Left" 
+                                        VerticalContentAlignment="Center"
+                                        materialDesign:HintAssist.Hint="{x:Static cards:MilitaryDocumentCard.SecretAccessIssueDateFieldName}" 
+                                        materialDesign:HintAssist.IsFloating="True"
+                                        SelectedDate="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.SecretAccessIssueDate}"
+                                        IsEnabled="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.IsHaveSecretAccess}" />
+
+                            <ToggleButton Grid.Row="6" Height="25"
+                                          Margin="5 5 5 5"
+                                          Padding="5"
+                                          ToolTip="{x:Static cards:MilitaryDocumentCard.IsHaveSecretAccessFieldName}"
+                                          IsChecked="{Binding RecruitCardGroup.SecondCardGroup.MilitaryDocumentCard.IsHaveSecretAccess}">
+
+                                <ToggleButton.Content>
+                                    <materialDesign:PackIcon Kind="LockOutline" />
+                                </ToggleButton.Content>
+                                <materialDesign:ToggleButtonAssist.OnContent>
+                                    <materialDesign:PackIcon Kind="LockOpenOutline" />
+                                </materialDesign:ToggleButtonAssist.OnContent>
+
+                            </ToggleButton>
+                        </Grid>
+                    </materialDesign:Card>
+                </Grid>
+
+                <Grid Grid.Column="2" Margin="0 0 0 0" VerticalAlignment="Top">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="4*" />
+                        <RowDefinition Height="4*" />
+                    </Grid.RowDefinitions>
+
+                    <materialDesign:Card Grid.Row="0"
+                                     Margin="5 5 0 0" 
+                                     Padding="5">
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0"
+                                       Margin="5 5 5 5" 
+                                       Padding="0 0 0 0" 
+                                       FontSize="16"
+                                       Text="{x:Static constants:TitleConstants.ProficiencyCardTitle}" />
+
+                            <ComboBox Grid.Row="1"
+                                      Margin="5 0 5 10"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:ProficiencyCard.ProficiencyCategoryFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.ProficiencyCategoryEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.ProficiencyCategory,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}" />
+
+                            <ComboBox Grid.Row="2"
+                                      Margin="5 0 5 10"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:ProficiencyCard.OfficialStatusFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.OfficialStatusEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.OfficialStatus,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}" />
+
+                            <ComboBox Grid.Row="3"
+                                      Margin="5 0 5 10"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:ProficiencyCard.NervouslyPsychologicalStabilityFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.NervouslyPsychologicalStabilityEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.NervouslyPsychologicalStability,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}" />
+
+                            <ComboBox Grid.Row="4"
+                                      Margin="5 0 5 15"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:ProficiencyCard.GeneralPsychologicalStabilityFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.GeneralPsychologicalStabilityEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.ProficiencyCard.GeneralPsychologicalStability,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}" />
+                        </Grid>
+                    </materialDesign:Card>
+
+                    <materialDesign:Card Grid.Row="1"
+                                         Margin="5 5 0 0" 
+                                         Padding="5" VerticalAlignment="Top">
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0"
+                                       Margin="5 5 5 5" 
+                                       Padding="0 0 0 0" 
+                                       FontSize="16"
+                                       Text="{x:Static constants:TitleConstants.DistributionCardTitle}" />
+
+                            <Grid Grid.Row="1">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="7*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <!-- <TextBox Margin="5 10 5 20"
+                                         HorizontalContentAlignment="Left" 
+                                         VerticalContentAlignment="Center"
+                                         materialDesign:HintAssist.Hint="{x:Static cards:DistributionCard.SpecialityFieldName}" 
+                                         materialDesign:HintAssist.IsFloating="True"
+                                         Text="{Binding RecruitCardGroup.SecondCardGroup.DistributionCard.Speciality,
+                                                        UpdateSourceTrigger=PropertyChanged,
+                                                        ValidatesOnDataErrors=True}" /> -->
+                                <ComboBox Margin="5 0 5 10"
+                                      x:Name="SpecBox"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:DistributionCard.SpecialityFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding FormDictionary.Speclist}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.DistributionCard.Speciality, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}" VerticalAlignment="Center"/>
+
+                                <Button Grid.Column="1"
+                                        Height="30"
+                                        Width="30"
+                                        Padding="0"
+                                        Style="{DynamicResource MaterialDesignFlatButton}"
+                                        Content="{materialDesign:PackIcon Kind=ShapeSquarePlus}"
+                                        Command="{Binding RecruitCardGroup.SecondCardGroup.DistributionCard.ResetSpecialityCommand}" />
+                            </Grid>
+
+                            <Grid Grid.Row="2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="7*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+
+                                <TextBox Margin="5 0 5 15"
+                                         HorizontalContentAlignment="Left" 
+                                         VerticalContentAlignment="Center"
+                                         materialDesign:HintAssist.Hint="{x:Static cards:DistributionCard.TeamModeFieldName}" 
+                                         materialDesign:HintAssist.IsFloating="True"
+                                         Text="{Binding RecruitCardGroup.SecondCardGroup.DistributionCard.TeamMode,
+                                                        UpdateSourceTrigger=PropertyChanged,
+                                                        ValidatesOnDataErrors=True}" />
+
+                                <Button Grid.Column="1"
+                                        Height="30"
+                                        Width="30"
+                                        Padding="0"
+                                        Style="{DynamicResource MaterialDesignFlatButton}"
+                                        Content="{materialDesign:PackIcon Kind=ShapeSquarePlus}"
+                                        Command="{Binding RecruitCardGroup.SecondCardGroup.DistributionCard.ResetTeamModeCommand}" />
+                            </Grid>
+                        </Grid>
+                    </materialDesign:Card>
+                </Grid>
+
+                <Grid Grid.Column="3" Margin="10 0 0 0" VerticalAlignment="Top">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="4*" />
+                        <RowDefinition Height="4*" />
+                    </Grid.RowDefinitions>
+
+                    <materialDesign:Card Grid.Row="0"
+                                     Margin="0 5 0 0" 
+                                     Padding="5">
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0"
+                                       Margin="5 5 5 5" 
+                                       Padding="0 0 0 0" 
+                                       FontSize="16" 
+                                       Text="{x:Static constants:TitleConstants.DriverCardTitle}" />
+
+                            <TextBox Grid.Row="1"
+                                     Margin="5 0 5 10"
+                                     HorizontalContentAlignment="Left" 
+                                     VerticalContentAlignment="Center"
+                                     materialDesign:HintAssist.Hint="{x:Static cards:DriverCard.DriverLicenseCodeFieldName}" 
+                                     materialDesign:HintAssist.IsFloating="True"
+                                     Text="{Binding RecruitCardGroup.SecondCardGroup.DriverCard.DriverLicenseCode,
+                                                    UpdateSourceTrigger=PropertyChanged,
+                                                    ValidatesOnDataErrors=True}"
+                                     IsEnabled="{Binding RecruitCardGroup.SecondCardGroup.DriverCard.IsDriver}" />
+
+                            <DatePicker Grid.Row="2"
+                                    Margin="5 10 5 10"
+                                    HorizontalContentAlignment="Left" 
+                                    VerticalContentAlignment="Center"
+                                    materialDesign:HintAssist.Hint="{x:Static cards:DriverCard.DriverLicenseIssueDateFieldName}" 
+                                    materialDesign:HintAssist.IsFloating="True"
+                                    SelectedDate="{Binding RecruitCardGroup.SecondCardGroup.DriverCard.DriverLicenseIssueDate}"
+                                    IsEnabled="{Binding RecruitCardGroup.SecondCardGroup.DriverCard.IsDriver}" />
+
+                            <ToggleButton Grid.Row="3" Height="25" Margin="0 5 0 5"
+                                      ToolTip="Водительские права"
+                                      IsChecked="{Binding RecruitCardGroup.SecondCardGroup.DriverCard.IsDriver}">
+
+                                <ToggleButton.Content>
+                                    <materialDesign:PackIcon Kind="Car" />
+                                </ToggleButton.Content>
+                                <materialDesign:ToggleButtonAssist.OnContent>
+                                    <materialDesign:PackIcon Kind="BlockHelper" />
+                                </materialDesign:ToggleButtonAssist.OnContent>
+
+                            </ToggleButton>
+                        </Grid>
+                    </materialDesign:Card>
+
+                    <materialDesign:Card Grid.Row="1"
+                                     Margin="0 5 0 0" 
+                                     Padding="5" VerticalAlignment="Top">
+
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Grid.Row="0"
+                                   Margin="5 5 5 5" 
+                                   Padding="0 0 0 0" 
+                                   FontSize="16"
+                                   Text="{x:Static constants:TitleConstants.CivilCardTitle}" />
+
+                            <ComboBox Grid.Row="1"
+                                      Margin="5 0 5 10"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:CivilCard.EducationFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.CivilCard.EducationStatusEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.CivilCard.Education,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}" />
+
+                            <TextBox Grid.Row="2"
+                                     Margin="5 0 5 10"
+                                     HorizontalContentAlignment="Left"
+                                     VerticalContentAlignment="Center"
+                                     materialDesign:HintAssist.Hint="{x:Static cards:CivilCard.ProfessionFieldName}" 
+                                     materialDesign:HintAssist.IsFloating="True"
+                                     Text="{Binding RecruitCardGroup.SecondCardGroup.CivilCard.Profession,
+                                                    UpdateSourceTrigger=PropertyChanged,
+                                                    ValidatesOnDataErrors=True}" />
+
+                            <ComboBox Grid.Row="3"
+                                      Margin="5 0 5 15"
+                                      HorizontalContentAlignment="Left" 
+                                      VerticalContentAlignment="Center"
+                                      materialDesign:HintAssist.Hint="{x:Static cards:CivilCard.OccupationFieldName}" 
+                                      materialDesign:HintAssist.IsFloating="True"
+                                      ItemsSource="{Binding RecruitCardGroup.SecondCardGroup.CivilCard.OccupationStatusEnumValues}"
+                                      SelectedItem="{Binding RecruitCardGroup.SecondCardGroup.CivilCard.Occupation,
+                                                             UpdateSourceTrigger=PropertyChanged,
+                                                             ValidatesOnDataErrors=True}" />
+                        </Grid>
+
+                    </materialDesign:Card>
+                </Grid>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="6*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Button Grid.Column="0"
+                    Style="{DynamicResource MaterialDesignFlatButton}"
+                    Height="60"
+                    Content="{materialDesign:PackIcon Kind=ArrowLeftBold,Size=25}"
+                    Command="{x:Static materialDesign:Transitioner.MovePreviousCommand}" />
+
+                <Button Grid.Column="3"
+                    Style="{DynamicResource MaterialDesignFlatButton}"
+                    Height="60"
+                    Content="{materialDesign:PackIcon Kind=ArrowRightBold,Size=25}"
+                    Command="{x:Static materialDesign:Transitioner.MoveNextCommand}" />
+            </Grid>
+        </Grid>
+    </materialDesign:ColorZone>
+</UserControl>
